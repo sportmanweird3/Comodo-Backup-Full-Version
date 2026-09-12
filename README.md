@@ -241,3 +241,6 @@ This repository serves as the official landing page for Comodo Backup. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Comodo Backup today!**
+
+---
+**Last updated:** 2026-09-12 06:35:23 UTC
