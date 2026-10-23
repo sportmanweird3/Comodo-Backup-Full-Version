@@ -243,4 +243,4 @@ This repository serves as the official landing page for Comodo Backup. The softw
 **Get the most recent version of Comodo Backup today!**
 
 ---
-**Last updated:** 2026-10-23 13:05:58 UTC
+**Last updated:** 2026-10-23 17:59:02 UTC
